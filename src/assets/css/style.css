@@ -8,7 +8,7 @@ body{
 }
 .card{
   width: 150px;
-  height: 200PX;
+  height: 250PX;
   box-shadow: 0 0 10px 1px black;
   display: flex;
   flex-direction: column;

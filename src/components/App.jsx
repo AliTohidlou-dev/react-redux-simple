@@ -1,6 +1,6 @@
 import { Provider } from "react-redux";
 import Fruits from "./Fruits";
-import store from "../redux/fruits/fruits.store";
+import store from "../redux/store";
 
 const App=()=>{
 return(
